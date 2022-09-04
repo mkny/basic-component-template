@@ -44,7 +44,8 @@
     "@testing-library/react": "^12.0.0",
     "@testing-library/react-hooks": "^7.0.1",
     "@types/jest": "^26.0.24",
-    "jest": "^25.0"
+    "jest": "^25.0",
+    "typescript": "^4.8.2"
   },
   "jest": {
     "setupFilesAfterEnv": [
